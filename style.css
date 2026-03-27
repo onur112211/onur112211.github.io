@@ -1,0 +1,11 @@
+body {
+    background-image: url(/home/m1cr1t1z/Загрузки/Обои.jpg);
+    background-size: 100%;
+}
+#photo1 {
+    width: 35%;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+
+}
