@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/1.jpg);
+    background-image: url(/home/m1cr1t1z/Загрузки/Обои.jpg);
     background-size: 100%;
 }
 #photo1 {
@@ -7,5 +7,16 @@ body {
     height: auto;
     float: left;
     margin-right: 10px;
-
+    margin-top: 85px;
+}
+#photo2 {
+    width: 35%;
+    height: auto;
+    float: right;
+    margin-left: 10px;
+}
+#photo3 {
+    width: 100%;
+    height: auto;
+    float: top;
 }
