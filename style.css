@@ -1,8 +1,6 @@
 body {
     background-image: url(images/Обои.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-size: 100%;
 }
 #photo1 {
     width: 35%;
@@ -21,4 +19,10 @@ body {
     width: 100%;
     height: auto;
     float: top;
+}
+@media (max-width: 600px) {
+    #photo1, #photo2 {
+        float: none;
+        width: 100%;
+    }
 }
