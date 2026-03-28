@@ -1,6 +1,8 @@
 body {
     background-image: url(images/Обои.jpg);
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 #photo1 {
     width: 35%;
