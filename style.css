@@ -1,9 +1,3 @@
-@media (max-width: 600px) {
-    #photo1, #photo2, #photo4, #photo5 {
-        float: none;
-        width: 100%;
-        margin: 10px 0;
-    }
 body {
     background-size: auto;
 }
@@ -16,7 +10,6 @@ body {
     color: whitesmoke;
 }
 img {
-    max-width: 100%;
     height: auto;
 }
 #photo1 {
