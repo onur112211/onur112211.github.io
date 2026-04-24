@@ -7,7 +7,7 @@ body {
   background-size: cover;
 }
 .index {
-  background-image: url(images/Обои.jpg);
+  background-image: url(images/обои.jpg);
   color: black;
   -webkit-text-stroke: 0.01em white;
 }
