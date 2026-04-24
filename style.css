@@ -1,50 +1,77 @@
 body {
-    background-size: auto;
+  text-indent: 2em;
+  text-align: justify;
+  font-family: cursive;
+  font-size: 2em;
+  background-size: auto;
+  background-size: cover;
 }
 .index {
-        background-image: url(images/Обои.jpg);
-        color: black;
+  background-image: url(фото/Обои.jpg);
+  color: black;
+  -webkit-text-stroke: 0.01em white;
 }
 .page2 {
-    background-image: url(https://img.goodfon.ru/wallpaper/nbig/d/b5/noch-reka-fonari-leto.webp);
-    color: whitesmoke;
+  background-image: url(фото/oboi.webp);
+  color: whitesmoke;
+  -webkit-text-stroke: 0.01em rgb(0, 0, 0);
+}
+h1 {
+  font-family: cursive;
+  text-align: center;
+  font-size: 2.19em;
+}
+.h1 {
+  font-family: cursive;
+  text-align: center;
+  font-size: 3em;
 }
 img {
-    height: auto;
+  height: auto;
 }
 #photo1 {
-    width: 35%;
-    float: left;
-    margin-right: 10px;
-    margin-top: 85px;
+  border-radius: 100em;
+  width: 35%;
+  float: left;
+  margin-right: 10px;
+  margin-top: 85px;
 }
 #photo2 {
-    width: 35%;
-    float: right;
-    margin-left: 10px;
+  border-radius: 100em;
+  width: 35%;
+  float: right;
+  margin-left: 0.625em;
 }
 #photo3 {
-    width: 100%;
+  border-radius: 100em;
+  width: 100%;
 }
 #photo4 {
-    width: 30%;
-    float: right;
-    margin-top: 80px;
+  border-radius: 100em;
+  width: 30%;
+  float: right;
+  margin-top: 4.8em;
 }
 #photo5 {
-    width: 30%;
-    float: left;
-    margin-top: 20px;
+  border-radius: 100em;
+  width: 30%;
+  float: left;
+  margin-top: 0.4em;
 }
 .button {
-    padding: 12px 24px;
-    background-color: rgb(235, 68, 207);
-    color: rgb(0, 0, 0);
-    border-radius: 5px;
-    font-size: 16px;
-    transition: background-color 0.3s;
+  padding: 12px 24px;
+  background-color: rgb(235, 67, 151);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  font-size: 1em;
+  transition: background-color 0.4s;
 }
 .button:hover {
-    background-color: #ffffff;
-    color: rgb(255, 0, 212);
+  background-color: #ffffff;
+  color: rgb(233, 17, 197);
+}
+#numbers {
+  font-family: cursive;
+  font-size: 2em;
+  text-align: center;
 }
