@@ -7,12 +7,12 @@ body {
   background-size: cover;
 }
 .index {
-  background-image: url(фото/Обои.jpg);
+  background-image: url(images/Обои.jpg);
   color: black;
   -webkit-text-stroke: 0.01em white;
 }
 .page2 {
-  background-image: url(фото/oboi.webp);
+  background-image: url(images/oboi.webp);
   color: whitesmoke;
   -webkit-text-stroke: 0.01em rgb(0, 0, 0);
 }
