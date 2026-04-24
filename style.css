@@ -34,30 +34,47 @@ img {
   width: 35%;
   float: left;
   margin-right: 10px;
-  margin-top: 160px;
 }
 #photo2 {
   border-radius: 100em;
   width: 35%;
   float: right;
   margin-left: 0.625em;
-  margin-top: 20px;
 }
 #photo3 {
   border-radius: 100em;
-  width: 100%;
+  width: 50%;
+  float: right;
 }
 #photo4 {
   border-radius: 100em;
   width: 30%;
   float: right;
-  margin-top: 4.8em;
 }
 #photo5 {
   border-radius: 100em;
   width: 30%;
   float: left;
-  margin-top: 0.4em;
+}
+#photo6 {
+  border-radius: 100em;
+  width: 35%;
+  float: left;
+}
+#photo7 {
+  border-radius: 100em;
+  width: 50%;
+  float: left;
+}
+#photo8 {
+  border-radius: 100em;
+  width: 30%;
+  float: left;
+}
+#photo9 {
+  border-radius: 100em;
+  width: 35%;
+  float: right;
 }
 .button {
   padding: 12px 24px;
