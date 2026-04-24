@@ -34,13 +34,14 @@ img {
   width: 35%;
   float: left;
   margin-right: 10px;
-  margin-top: 85px;
+  margin-top: 160px;
 }
 #photo2 {
   border-radius: 100em;
   width: 35%;
   float: right;
   margin-left: 0.625em;
+  margin-top: 20px;
 }
 #photo3 {
   border-radius: 100em;
